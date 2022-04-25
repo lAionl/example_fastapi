@@ -30,7 +30,6 @@ Mako==1.2.0
 MarkupSafe 
 multidict 
 passlib 
-pathlib==1.0.1
 Pillow 
 priority 
 psycopg2-binary==2.9.3
