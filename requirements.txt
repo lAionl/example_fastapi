@@ -26,7 +26,7 @@ hyperframe
 idna 
 iso8601 
 Jinja2 
-Mako==1.2.0
+Mako==1.2.2
 MarkupSafe 
 multidict 
 passlib 
